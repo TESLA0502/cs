@@ -63,7 +63,7 @@ this.player.seekTo(0)}}}})(void 0);
                 "mp4":"https://tesla0502.github.io/cs/upload/preview.mp4" ,     //Path to video mp4 format
                 "ogg":"https://tesla0502.github.io/cs/upload/preview.ogg" ,     //Path to video ogg format
                 "webm":"https://tesla0502.github.io/cs/upload/preview.webm" ,     //Path to video webm format
-                "video_ratio": 1.7778,              // width/height -> If none provided sizing of the video is set to adjust
+                "video_ratio": 1.7778,              // width/height -> If none provided sizing of the video is set to adjusts
                 "fallback_image": "images/dummy.png",   //Fallback image path
                 "priority": "html5"             //Priority for html5 (if set to flash and tested locally will give a flash security error)
             });
